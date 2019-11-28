@@ -1,0 +1,38 @@
+[
+  {
+    "album_name": "“用奋斗点亮幸福”江苏卫视2019跨年演唱会",
+    "audio_name": "毛不易 - 像我这样的人 (Live)",
+    "author_name": "毛不易",
+    "img": "img/music/zydr.jpg",
+    "lyrics": " src/musiclyrics/zydr",
+    "play_url": "src/music/xwzydr.mp3",
+    "timelength": "02:46"
+  },
+  {
+    "album_name": "",
+    "audio_name": "晴天",
+    "author_name": "周杰伦",
+    "img": "img/music/1.jpg",
+    "lyrics": "src/musiclyrics/qt",
+    "play_url": "src/music/qt.mp3",
+    "timelength": "04:29"
+  },
+  {
+    "album_name": "",
+    "audio_name": "消愁",
+    "author_name": "毛不易",
+    "img": "img/music/xc.jpg",
+    "lyrics": "src/musiclyrics/hckz",
+    "play_url": "src/music/xc.mp3",
+    "timelength": "02:31"
+  },
+  {
+    "album_name": "",
+    "audio_name": "红尘客栈",
+    "author_name": "周杰伦",
+    "img": "img/music/hckz.jpg",
+    "lyrics": "src/musiclyrics/hckz",
+    "play_url": "src/music/hckz.mp3",
+    "timelength": "04:06"
+  }
+]
